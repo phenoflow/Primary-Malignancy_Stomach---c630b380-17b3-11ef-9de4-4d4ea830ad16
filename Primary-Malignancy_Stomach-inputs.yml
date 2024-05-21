@@ -1,0 +1,36 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/primary-malignancy_stomach-pylorus---primary.py
+inputModule3:
+  class: File
+  path: python/primary-malignancy_stomach-cardia---primary.py
+inputModule4:
+  class: File
+  path: python/primary-malignancy_stomach-neoplasm---primary.py
+inputModule5:
+  class: File
+  path: python/primary-malignancy_stomach-junction---primary.py
+inputModule6:
+  class: File
+  path: python/primary-malignancy_stomach-unspecified---primary.py
+inputModule7:
+  class: File
+  path: python/primary-malignancy_stomach-adenocarcinoma---primary.py
+inputModule8:
+  class: File
+  path: python/pyloric-primary-malignancy_stomach---primary.py
+inputModule9:
+  class: File
+  path: python/primary-malignancy_stomach-history---primary.py
+inputModule10:
+  class: File
+  path: python/stomach---primary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
